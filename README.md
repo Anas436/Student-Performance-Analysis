@@ -1,5 +1,5 @@
 # Student-Performance-Analysis
-In this project I have constructed a Machine Learning System which will analyis students performance with about their academic records. Note that, this project will work with any students recods which you want to provide.
+In this project I have constructed a Machine Learning System which will Analysis Students Performance with about their academic records. Note that, this project will work with any students recods which you want to provide.
 
 
 Tools : Jupyter Notebook, 
